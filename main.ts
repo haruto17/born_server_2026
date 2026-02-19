@@ -19,7 +19,7 @@ const products: Product[] = [
   },
   {
     name: "Born: Chogin",
-    nameJa: "梵・超吟（ちょうぎん）",
+    nameJa: "梵・超吟",
     taste: "芳醇旨口",
     desc: "「梵」を代表する究極の\n純米大吟醸酒",
     info:
@@ -28,7 +28,7 @@ const products: Product[] = [
   },
   {
     name: "Born: Dan",
-    nameJa: "梵・団（だん）",
+    nameJa: "梵・団",
     taste: "芳醇旨口",
     desc: "精米歩合２０% \n究極の純米大吟醸酒",
     info:
@@ -37,7 +37,7 @@ const products: Product[] = [
   },
   {
     name: "Born: Dreams Come True",
-    nameJa: "梵・夢は正夢（まさゆめ）",
+    nameJa: "梵・夢は正夢",
     taste: "芳醇旨口",
     desc: "「夢が正夢となる」という\n祈願酒",
     info:
@@ -55,7 +55,7 @@ const products: Product[] = [
   },
   {
     name: "Born: Gokuhizo Daiginjo",
-    nameJa: "梵・極秘造（ごくひぞう）大吟醸",
+    nameJa: "梵・極秘造大吟醸",
     taste: "芳醇旨口",
     desc: "日本で最初に市販された\n純米大吟醸酒",
     info:
@@ -64,7 +64,7 @@ const products: Product[] = [
   },
   {
     name: "Born: Kantsubaki",
-    nameJa: "梵・寒椿（かんつばき）",
+    nameJa: "梵・寒椿",
     taste: "芳醇旨口",
     desc: "雪の庭に咲く\n一輪の花のような日本酒",
     info:
